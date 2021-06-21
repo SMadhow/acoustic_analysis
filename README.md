@@ -1,5 +1,5 @@
-# template_module_repo
-Template repository for a repo for a module/library (not a paper/project)
+# acoustic_analysis
+Code to standardize a database of sounds, calculate acoustic features, and predict semantic labels. 
 
 ## Installation
 To install, you can clone the repository and `cd` into the `template_module_repo` folder.
