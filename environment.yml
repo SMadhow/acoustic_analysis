@@ -3,4 +3,5 @@ dependencies:
   - scipy
   - scikit-learn
   - matplotlib
-  - Biosound
+  - soundsig
+  - umap-learn
